@@ -1,7 +1,7 @@
 # Olá, me chamo Laura Luna! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou aprendendo ReactNative
+- 🌱 Atualmente estou aprendendo ReactNative e TypeScript
 - 🔎 Estou procurando colaborar em projetos de design UX/UI e ReactJs
 - 👯 Faço parte de projeto de pesquisa em análise de microdados 
 
