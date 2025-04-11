@@ -1,19 +1,19 @@
 <h1 align="center">Olá 👋, me chamo Laura Luna</h1>
 <h3 align="center">Bem vindo ao meu perfil GitHub!</h3>
 
-- 🔭 Atualmente estou fazendo mestrado em ciências da computação **Desenvolvimento de Sistemas Embarcos em Robótica Móvel**
+- 🔭 Atualmente estou fazendo mestrado em ciências da computação - **Desenvolvimento de Sistemas Embarcos em Robótica Móvel**
 
-- 🌱 Tenho me aprodundado em Machine Learning e Sistemas Embarcados **Sckit-Learn, Pytorch, Pandas, OpenCV, Assembly, C++.**
+- 🌱 Tenho me aprodundado em Machine Learning e Sistemas Embarcados - **Sckit-Learn, Pytorch, Pandas, OpenCV, Assembly, C++.**
 
-- 👯 Estou procurando colaborar em pesquisas **Robótica e IA**
+- 👯 Estou procurando colaborar em pesquisas em Robótica e IA
 
-- 📫 Como entrar em contato comigo **www.linkedin.com/in/laura-luna-424853231**
+- 📫 Como entrar em contato comigo: **www.linkedin.com/in/laura-luna-424853231**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laura luna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura luna" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/laura-luna-424853231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura luna" height="30" width="40" /></a>
 <a href="https://instagram.com/luna.9ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luna.9ls" height="30" width="40" /></a>
-<a href="https://www.behance.net/laura luna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="laura luna" height="30" width="40" /></a>
+<a href="https://www.behance.net/lauraluna12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="laura luna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
