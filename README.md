@@ -5,7 +5,7 @@
 
 - 🌱 Tenho me aprodundado em Machine Learning e Sistemas Embarcados - **Sckit-Learn, Pytorch, Pandas, OpenCV, Assembly, C++.**
 
-- 👯 Estou procurando colaborar em pesquisas em Robótica e IA
+- 🎨 Realizo trablhos relacionados a design UX/UI com prototipação em Figma
 
 - 📫 Como entrar em contato comigo: **www.linkedin.com/in/laura-luna-424853231**
 
